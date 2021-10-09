@@ -1,7 +1,13 @@
 # IPL_data_analysis
 
-BigData Analysis on IPL-T20 2021
+BigData Analysis on IPL-T20 2021 \
+<br>
+Tool Used: Spark \
+Language Used: Scala
 
+![Virat-Kholi](https://github.com/dharshankumar2002/IPL_data_analysis/Extra files/Virat-Kholi.jpg?raw=true)
+
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.news18.com%2Fcricketnext%2Fnews%2Fvirat-kohli-had-the-hunger-to-be-great-rcb-batting-coach-gary-kirsten-1723309.html&psig=AOvVaw2fAYwWm7ijCBGKKheXzxW6&ust=1633878934109000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjt0cHPvfMCFQAAAAAdAAAAABAD)
 
 Batting:
 --------
