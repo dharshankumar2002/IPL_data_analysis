@@ -5,7 +5,9 @@ BigData Analysis on IPL-T20 2021 \
 Tool Used: Spark \
 Language Used: Scala
 
-![Virat-Kholi](https://github.com/dharshankumar2002/IPL_data_analysis/Extra_files/Virat-Kholi.jpg?raw=true)
+<p align="left">
+  <img src="./Extra_files/Virat-Kholi.jpg" width="200" alt="Virat-Kholi">
+</p>
 
 Batting:
 --------
