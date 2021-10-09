@@ -6,7 +6,7 @@ Tool Used: Spark \
 Language Used: Scala
 
 <p align="left">
-  <img src="./Extra_files/Virat-Kholi.jpg" width="200" alt="Virat-Kholi">
+  <img src="./Virat-Kholi.jpg" width="200" alt="Virat-Kholi">
 </p>
 
 Batting:
